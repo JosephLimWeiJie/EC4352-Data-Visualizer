@@ -61,7 +61,7 @@ def updateEntry(entry, rawData):
 def writeCleanData(headers, rawData, currData):
     """
     Returns a list of resale flats for 2019 with each flat's town name
-    being unabbrievated.
+    abbrievated.
     """
     with open('./output/output-cleaned.csv', mode='w') as csvFile:
         csvWriter = csv.writer(csvFile, delimiter=',')
