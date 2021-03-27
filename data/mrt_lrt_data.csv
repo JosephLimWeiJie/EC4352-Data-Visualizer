@@ -1,0 +1,185 @@
+﻿name,opendate,area,code,stationname,latitude,longitude,stationId
+Toa Payoh, 7-Nov-87,Toa Payoh,NS19,Toa Payoh,1.332703,103.847808,1
+Yio Chu Kang, 7-Nov-87,Yio Chu Kang,NS15,Yio Chu Kang,1.381906,103.844817,2
+Ang Mo Kio, 7-Nov-87,Ang Mo Kio,NS16,Ang Mo Kio,1.370017,103.849450,3
+Braddell, 7-Nov-87,Braddell,NS18,Braddell,1.340339,103.846725,4
+Bishan, 7-Nov-87,"Kampong San Teng, San Teng",NS17,Bishan,1.351236,103.848456,5
+Dhoby Ghaut,12-Dec-87,Dhoby Ghaut,NS24,Dhoby Ghaut,1.299156,103.845736,6
+Orchard,12-Dec-87,"Scotts, Orchard Boulevard",NS22,Orchard,1.304314,103.831939,7
+City Hall,12-Dec-87,Saint Andrew's,NS25,City Hall,1.293239,103.852219,8
+Raffles Place,12-Dec-87,Central,NS26,Raffles Place,1.283881,103.851533,9
+City Hall,12-Dec-87,Saint Andrew's,EW13,City Hall,1.293239,103.852219,10
+Somerset,12-Dec-87,Killiney,NS23,Somerset,1.300514,103.839028,11
+Outram Park,12-Dec-87,Outram Park,EW16,Outram Park,1.280225,103.839486,12
+Novena,12-Dec-87,Thomson,NS20,Novena,1.320394,103.843689,13
+Tanjong Pagar,12-Dec-87,Maxwell,EW15,Tanjong Pagar,1.276439,103.845711,14
+Raffles Place,12-Dec-87,Central,EW14,Raffles Place,1.283881,103.851533,15
+Newton,12-Dec-87,Newton Circus,NS21,Newton,1.312956,103.838442,16
+Commonwealth,12-Mar-88,Queenstown,EW20,Commonwealth,1.302558,103.798225,17
+Redhill,12-Mar-88,Alexandra,EW18,Redhill,1.289733,103.816750,18
+Tiong Bahru,12-Mar-88,Tiong Bahru,EW17,Tiong Bahru,1.286081,103.826958,19
+Buona Vista,12-Mar-88,North Buona Vista,EW21,Buona Vista,1.306817,103.790428,20
+Queenstown,12-Mar-88,"Princess, Commonwealth",EW19,Queenstown,1.294442,103.806114,21
+Clementi,12-Mar-88,Clementi,EW23,Clementi,1.315303,103.765244,22
+Lakeside, 5-Nov-88,Corporation,EW26,Lakeside,1.344589,103.721139,23
+Chinese Garden, 5-Nov-88,Jurong Lake,EW25,Chinese Garden,1.342711,103.732467,24
+Jurong East, 5-Nov-88,"Jurong, Jurong Town",EW24,Jurong East,1.333415,103.742119,25
+Khatib,20-Dec-88,Nee Soon South,NS14,Khatib,1.417167,103.832900,26
+Yishun,20-Dec-88,Nee Soon North,NS13,Yishun,1.429464,103.835239,27
+Kembangan, 4-Nov-89,Frankel,EW6,Kembangan,1.320983,103.912842,28
+Kallang, 4-Nov-89,Geylang,EW10,Kallang,1.311469,103.871400,29
+Paya Lebar, 4-Nov-89,Paya Lebar,EW8,Paya Lebar,1.317767,103.892381,30
+Bugis, 4-Nov-89,"Rochore, Victoria",EW12,Bugis,1.300194,103.856150,31
+Lavender, 4-Nov-89,Crawford,EW11,Lavender,1.307167,103.863008,32
+Tanah Merah, 4-Nov-89,"Bedok, Changi",EW4,Tanah Merah,1.327358,103.946344,33
+Marina Bay, 4-Nov-89,"Telok Ayer Basin, Marina South",NS27,Marina Bay,1.276097,103.854675,34
+Bedok, 4-Nov-89,Chai Chee,EW5,Bedok,1.324039,103.930036,35
+Aljunied, 4-Nov-89,Aljunied,EW9,Aljunied,1.316442,103.882981,36
+Eunos, 4-Nov-89,Eunos,EW7,Eunos,1.319725,103.903108,37
+Pasir Ris,16-Dec-89,Pasir Ris,EW1,Pasir Ris,1.372411,103.949369,38
+Tampines,16-Dec-89,Tampines North,EW2,Tampines,1.352528,103.945322,39
+Simei,16-Dec-89,Tampines South,EW3,Simei,1.343444,103.953172,40
+Choa Chu Kang,10-Mar-90,Choa Chu Kang,BP1,Choa Chu Kang,1.385092,103.744322,41
+Choa Chu Kang,10-Mar-90,Choa Chu Kang,NS4,Choa Chu Kang,1.385092,103.744322,42
+Bukit Batok,10-Mar-90,Bukit Batok South,NS2,Bukit Batok,1.349073,103.749664,43
+Bukit Gombak,10-Mar-90,Bukit Batok North,NS3,Bukit Gombak,1.358702,103.751787,44
+Jurong East,10-Mar-90,Jurong East,NS1,Jurong East,1.333415,103.742119,45
+Boon Lay, 6-Jul-90,Jurong West,EW27,Boon Lay,1.338883,103.706208,46
+Marsiling,10-Feb-96,Woodlands West,NS8,Marsiling,1.432636,103.774283,47
+Woodlands,10-Feb-96,Woodlands Central,NS9,Woodlands,1.437094,103.786483,48
+Sembawang,10-Feb-96,Sembawang,NS11,Sembawang,1.449025,103.820153,49
+Yew Tee,10-Feb-96,Choa Chu Kang North,NS5,Yew Tee,1.396986,103.747239,50
+Admiralty,10-Feb-96,Woodlands East,NS10,Admiralty,1.440689,103.800933,51
+Kranji,10-Feb-96,Kranji,NS7,Kranji,1.425047,103.761853,52
+Expo,10-Jan-01,Somapah,CG1,Expo,1.335469,103.961767,53
+Dover,18-Oct-01,Polytechnic,EW22,Dover,1.311314,103.778658,54
+Changi Airport, 8-Feb-02,Changi Airport,CG2,Changi Airport,1.357372,103.988836,55
+Potong Pasir,20-Jun-03,Sennett,NE10,Potong Pasir,1.331161,103.869058,56
+Little India,20-Jun-03,Kandang Kerbau,NE7,Little India,1.306725,103.849175,57
+Kovan,20-Jun-03,Kovan,NE13,Kovan,1.360214,103.884864,58
+Boon Keng,20-Jun-03,Boon Keng,NE9,Boon Keng,1.319483,103.861722,59
+Punggol,20-Jun-03,Punggol,PTC,Punggol,1.405264,103.902097,60
+Chinatown,20-Jun-03,People's Park,NE4,Chinatown,1.284850,103.844006,61
+Serangoon,20-Jun-03,Serangoon,NE12,Serangoon,1.349944,103.873092,62
+Sengkang,20-Jun-03,Sengkang,STC,Sengkang,1.391653,103.895133,63
+Farrer Park,20-Jun-03,Farrer Park,NE8,Farrer Park,1.312314,103.854028,64
+Hougang,20-Jun-03,Hougang,NE14,Hougang,1.371292,103.892161,65
+Outram Park,20-Jun-03,Outram Park,NE3,Outram Park,1.280225,103.839486,66
+HarbourFront,20-Jun-03,World Trade Centre,NE1,HarbourFront,1.265297,103.822250,67
+Clarke Quay,20-Jun-03,Clarke Quay,NE5,Clarke Quay,1.288708,103.846606,68
+Punggol,20-Jun-03,Punggol,NE17,Punggol,1.405264,103.902097,69
+Dhoby Ghaut,20-Jun-03,Dhoby Ghaut,NE6,Dhoby Ghaut,1.299156,103.845736,70
+Sengkang,20-Jun-03,Sengkang,NE16,Sengkang,1.391653,103.895133,71
+Buangkok,15-Jan-06,Buangkok,NE15,Buangkok,1.382728,103.892789,72
+Pioneer,28-Feb-09,Pioneer,EW28,Pioneer,1.337578,103.697217,73
+Joo Koon,28-Feb-09,Joo Koon,EW29,Joo Koon,1.327739,103.678486,74
+Serangoon,28-May-09,Serangoon,CC13,Serangoon,1.349944,103.873092,75
+Bartley,28-May-09,Bartley,CC12,Bartley,1.342756,103.879697,76
+Marymount,28-May-09,Marymount,CC16,Marymount,1.349078,103.839492,77
+Lorong Chuan,28-May-09,Lorong Chuan,CC14,Lorong Chuan,1.351636,103.864064,78
+Bishan,28-May-09,Bishan,CC15,Bishan,1.351236,103.848456,79
+Dakota,17-Apr-10,Tanjong Katong,CC8,Dakota,1.308289,103.888253,80
+Bras Basah,17-Apr-10,Museum,CC2,Bras Basah,1.296931,103.850631,81
+Tai Seng,17-Apr-10,Upper Paya Lebar,CC11,Tai Seng,1.335833,103.887942,82
+Promenade,17-Apr-10,Millenia,CC4,Promenade,1.293131,103.861064,83
+Stadium,17-Apr-10,Boulevard,CC6,Stadium,1.302856,103.875306,84
+Nicoll Highway,17-Apr-10,Nicoll Highway,CC5,Nicoll Highway,1.299697,103.863611,85
+Mountbatten,17-Apr-10,Old Airport Road,CC7,Mountbatten,1.306306,103.882531,86
+Paya Lebar,17-Apr-10,Paya Lebar,CC9,Paya Lebar,1.317767,103.892381,87
+MacPherson,17-Apr-10,MacPherson,CC10,MacPherson,1.326650,103.890019,88
+Dhoby Ghaut,17-Apr-10,Dhoby Ghaut,CC1,Dhoby Ghaut,1.299156,103.845736,89
+Esplanade,17-Apr-10,Convention Centre,CC3,Esplanade,1.293436,103.855381,90
+Woodleigh,20-Jun-11,Woodleigh,NE11,Woodleigh,1.339181,103.870744,91
+Buona Vista, 8-Oct-11,Buona Vista,CC22,Buona Vista,1.306817,103.790428,92
+Botanic Gardens, 8-Oct-11,Adam,CC19,Botanic Gardens,1.322519,103.815406,93
+Labrador Park, 8-Oct-11,Alexandra,CC27,Labrador Park,1.272267,103.802908,94
+one-north, 8-Oct-11,one-north,CC23,one-north,1.299331,103.787067,95
+Kent Ridge, 8-Oct-11,NUH,CC24,Kent Ridge,1.293383,103.784394,96
+Holland Village, 8-Oct-11,Holland,CC21,Holland Village,1.312078,103.796208,97
+Haw Par Villa, 8-Oct-11,West Coast,CC25,Haw Par Villa,1.282386,103.781867,98
+Caldecott, 8-Oct-11,Thomson,CC17,Caldecott,1.337761,103.839447,99
+Telok Blangah, 8-Oct-11,Telok Blangah,CC28,Telok Blangah,1.270572,103.809678,100
+HarbourFront, 8-Oct-11,HarbourFront,CC29,HarbourFront,1.265297,103.822250,101
+Pasir Panjang, 8-Oct-11,Pasir Panjang,CC26,Pasir Panjang,1.276167,103.791358,102
+Farrer Road, 8-Oct-11,Farrer,CC20,Farrer Road,1.317319,103.807431,103
+Bayfront,14-Jan-12,Bayfront,CE1,Bayfront,1.282347,103.859317,104
+Marina Bay,14-Jan-12,Marina Bay,CE2,Marina Bay,1.276097,103.854675,105
+Bugis,22-Dec-13,Bugis,DT14,Bugis,1.300194,103.856150,106
+Telok Ayer,22-Dec-13,Cross Street,DT18,Telok Ayer,1.282125,103.848472,107
+Bayfront,22-Dec-13,Bayfront,DT16,Bayfront,1.282347,103.859317,108
+Promenade,22-Dec-13,Promenade,DT15,Promenade,1.293131,103.861064,109
+Downtown,22-Dec-13,Landmark,DT17,Downtown,1.279458,103.852931,110
+Chinatown,22-Dec-13,Chinatown,DT19,Chinatown,1.284850,103.844006,111
+Marina South Pier,23-Nov-14,"Marina View, Marina Pier",NS28,Marina South Pier,1.270958,103.863242,112
+Bukit Panjang,27-Dec-15,Petir,BP6,Bukit Panjang,1.378436,103.761767,113
+Bukit Panjang,27-Dec-15,Petir,DT1,Bukit Panjang,1.378436,103.761767,114
+Cashew,27-Dec-15,Cashew,DT2,Cashew,1.368975,103.764803,115
+Hillview,27-Dec-15,Hillview,DT3,Hillview,1.362472,103.767389,116
+Beauty World,27-Dec-15,Beauty World,DT5,Beauty World,1.341133,103.775797,117
+King Albert Park,27-Dec-15,Blackmore,DT6,King Albert Park,1.335628,103.783983,118
+Sixth Avenue,27-Dec-15,Sixth Avenue,DT7,Sixth Avenue,1.330714,103.797633,119
+Tan Kah Kee,27-Dec-15,Duchess,DT8,Tan Kah Kee,1.326039,103.807169,120
+Botanic Gardens,27-Dec-15,Botanic Gardens,DT9,Botanic Gardens,1.322519,103.815406,121
+Stevens,27-Dec-15,Stevens,DT10,Stevens,1.320069,103.825997,122
+Newton,27-Dec-15,Newton,DT11,Newton,1.312956,103.838442,123
+Little India,27-Dec-15,Little India,DT12,Little India,1.306725,103.849175,124
+Rochor,27-Dec-15,Rochor,DT13,Rochor,1.303764,103.852581,125
+Tuas Crescent,2017,Tuas Crescent,EW31,Tuas Crescent,1.321166,103.649067,126
+Gul Circle,2017,Tuas,EW30,Gul Circle,1.319559,103.660564,127
+Tuas Link,2017,Tuas Link,EW33,Tuas Link,1.340515,103.636880,128
+Tuas West Road,2017,Tuas West,EW32,Tuas West Road,1.329849,103.640827,129
+Kaki Bukit,2017,Kaki Bukit,DT28,Kaki Bukit,1.334999,103.908437,130
+Bedok Reservoir,2017,Bedok Reservoir,DT30,Bedok Reservoir,1.336661,103.932219,131
+Mattar,2017,Mattar,DT25,Mattar,1.326900,103.883325,132
+Bedok North,2017,Bedok Town Park,DT29,Bedok North,1.334736,103.917965,133
+Ubi,2017,Ubi,DT27,Ubi,1.329997,103.899265,134
+Fort Canning,2017,River Valley,DT20,Fort Canning,1.293418,103.843885,135
+Tampines West,2017,Tampines West,DT31,Tampines West,1.345749,103.938463,136
+Upper Changi,2017,Upper Changi,DT34,Upper Changi,1.341609,103.961358,137
+Geylang Bahru,2017,Kallang Bahru,DT24,Geylang Bahru,1.321498,103.871852,138
+Tampines East,2017,Tampines East,DT33,Tampines East,1.356437,103.953294,139
+Tampines,2017,Tampines,DT32,Tampines,1.354821,103.943306,140
+MacPherson,2017,MacPherson,DT26,MacPherson,1.326749,103.889882,141
+Expo,2017,Expo,DT35,Expo,1.335253,103.962000,142
+Bencoolen,2017,Bencoolen,DT21,Bencoolen,1.298880,103.850386,143
+Jalan Besar,2017,Sungei Road,DT22,Jalan Besar,1.305440,103.855476,144
+Bendemeer,2017,Jalan Besar,DT23,Bendemeer,1.313686,103.862986,145
+Canberra,,,,,1.443300,103.829600,146
+South View,LRT,,,,1.380299,103.745286,147
+Keat Hong,LRT,,,,1.378604,103.749058,148
+Teck Whye,LRT,,,,1.376738,103.753665,149
+Phoenix,LRT,,,,1.378798,103.758021,150
+Senja,LRT,,,,1.382852,103.762312,151
+Jelapang,LRT,,,,1.386703,103.764547,152
+Segar,LRT,,,,1.387713,103.769599,153
+Fajar,LRT,,,,1.384502,103.770862,154
+Bangkit,LRT,,,,1.380281,103.772576,155
+Pending,LRT,,,,1.376223,103.771277,156
+Petir,LRT,,,,1.377828,103.76655,157
+Compassvale,LRT,,,,1.394615,103.900443,158
+Rumbia,LRT,,,,1.391553,103.905947,159
+Bakau,LRT,,,,1.38804,103.905412,160
+Kangkar,LRT,,,,1.383957,103.90216,161
+Ranggung,LRT,,,,1.384116,103.897386,162
+Cheng Lim,LRT,,,,1.396332,103.89379,163
+Farmway,LRT,,,,1.397178,103.889168,164
+Kupang,LRT,,,,1.398271,103.881283,165
+Thanggam,LRT,,,,1.397378,103.87561,166
+Fernvale,LRT,,,,1.392033,103.876256,167
+Layar,LRT,,,,1.392141,103.880022,168
+Tongkang,LRT,,,,1.389519,103.885829,169
+Renjong,LRT,,,,1.386827,103.890541,170
+Cove,LRT,,,,1.399534,103.905792,171
+Meridian,LRT,,,,1.397002,103.908884,172
+Coral Edge,LRT,,,,1.39392,103.912633,173
+Riviera,LRT,,,,1.39454,103.916056,174
+Kadaloor,LRT,,,,1.399633,103.916536,175
+Oasis,LRT,,,,1.402304,103.912736,176
+Damai,LRT,,,,1.405293,103.908606,177
+Sam Kee,LRT,,,,1.409808,103.90492,178
+Teck Lee,LRT,,,,1.412783,103.906565,179
+Punggol Point,LRT,,,,1.416932,103.90668,180
+Samudera,LRT,,,,1.415955,103.902185,181
+Nibong,LRT,,,,1.411865,103.900321,182
+Sumang,LRT,,,,1.408501,103.898605,183
+Soo Teck,LRT,,,,1.405436,103.897287,184
