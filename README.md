@@ -43,7 +43,7 @@ with gzip.open("./data/database.json.gz", "rb") as f:
  ```
 Each method and its description are documented in `main.py`.
 
-#### Proximity of flat to its nearest dormitory
+#### 2.1.1 Proximity of flat to its nearest dormitory
 To calculate the proxmity, we have used the [Haversine Formula.](https://www.movable-type.co.uk/scripts/latlong.html) For simplicity, the formula takes in the latitude
 and longitude of 2 points and returns the distance between 2 points in kilometres as show in `calculateDistance()`.
 
@@ -59,7 +59,7 @@ def calculateDistance(lat1, lon1, lat2, lon2):
 ```
 
 
-#### Proximity of flat to the nearest CBD
+#### 2.1.2 Proximity of flat to the nearest CBD
 For this, we use the same `calculateDistance()` to find the distance between a flat to the CDB. In our case, we have assumed that the CDB has the following latitude and
 longitude.
 
@@ -68,10 +68,10 @@ CBD_LATITUDE = 1.284297
 CBD_LONGITUDE = 103.851053
 ```
 
-#### Proximity of flat to the nearest MRT/LRT stations
+#### 2.1.3 Proximity of flat to the nearest MRT/LRT stations
 Similarly, `calculateDistance()` is used.
 
-#### Generating an output CSV file 
+#### 2.1.4 Generating an output CSV file 
 Due to the different format of each csv file used from the relevant data sources, some files did not come with the necessary data to compute the proximity. 
 
 **Problems**:
@@ -205,8 +205,7 @@ To visualise each flat's proximity to their nearest dormitories, we need to furt
 `filter.py`. The reason for doing this is that we have about 22,000 entries in the output file, of which many of these are considered duplicates as they have
 the same postal codes. 
 
-To remove duplicates, we supply `data from `output-uncleaned.csv` and store it in a list structure under `listOfPostalCodes`. We then skip entries whose postal codes are already
-present in the `listOfPostalCodes`. The main logic is as follows:
+To remove duplicates, we supply data from `output-uncleaned.csv` and store it in a list structure under `listOfPostalCodes`. We then skip entries whose postal codes are already present in the `listOfPostalCodes`. The main logic is as follows:
 
 ```python
 def removeDuplicate(data, listOfPostalCodes):
