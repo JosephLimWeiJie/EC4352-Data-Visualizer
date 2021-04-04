@@ -3,7 +3,7 @@
 This repository contains the program to generate proximity of resales flats (HDB) to the nearest dormitory, CDB district as well as the nearest MRT/LRT stations
 in Singapore 2019. The proximity of resales flats to the nearest dormitory is then plotted to derive a heat map for clearer visualization as shown below.
 
-![heatmap](/image/heat-map.png)
+![heatmap](/image/heat-map-reversed.png)
 
 ## Table of Content
 1. Extracting data from relevant data sources

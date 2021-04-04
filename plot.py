@@ -26,7 +26,7 @@ def plotData(flatData):
     singapore_img = mpimg.imread('./image/singapore.png')
 
     ax = flatData.plot(kind="scatter", x="longitude", y="latitude", figsize=(10,7),
-                        label="Resale Flats", c="min_distance_to_dorm_in_km", cmap=plt.get_cmap("jet"),
+                        label="Resale Flats", c="Mininum distance of resale flat to the nearest dormitory (in km)", cmap=plt.get_cmap("jet_r"),
                         colorbar=True, alpha=0.4)
 
     # extent = [left, right, down, up]
@@ -40,7 +40,7 @@ def plotData(flatData):
 
 
 def main():
-    flatData = pd.read_csv('./output/output-for-plot.csv')  
+    flatData = pd.read_csv('./output/output-for-plot-edited-heading.csv')  
     plotData(flatData)
 
 
